@@ -31,14 +31,7 @@ Hi there 👋, I'm 嘿嘿 😁.
 ![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<a href="https://www.heyfe.org/">
-  <img align="right" alt="CodeSandbox" width="20px" height="20px" src="./assets/home.svg" />
-</a>
 
-<a href="https://blog.heyfe.org/">
-  <img align="right" alt="CodeSandbox" width="20px" height="20px" src="https://www.heyfe.org/public/blog.svg" />
-</a>
-
-<a href="https://codesandbox.io/u/StevenLikeWatermelon">
-  <img align="right" alt="CodeSandbox" width="20px" height="20px" src="./assets/codesandbox.svg" />
+<a href="https://juejin.cn/user/1081575171962382">
+  <img align="right" alt="CodeSandbox" width="20px" height="20px" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-32x32.png" />
 </a>
