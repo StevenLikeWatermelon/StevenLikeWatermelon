@@ -4,10 +4,10 @@ Hi there 👋, I'm 嘿嘿 😁.
 
 - 💼 I'm a FrontEnd Engineer
 - 📚 I use <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height=20 /></code> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height=20 /></code>
-- 💬 My wechat offical account is `嘿前端`
-- 💼 I'm currently working in Autodesk
+- 💬 My wechat offical account is `stevenLikeWatermelon`
+- 💼 I'm currently working in CTTQ
 
-<!-- - 🌱 I’m currently learning <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" height=20 /></code> <code><img src="https://vitejs.dev/logo.svg" height=20 /></code> -->
+🌱 I’m currently learning <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height=20 /></code> <code><img src="https://vitejs.dev/logo.svg" height=20 /></code>
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
