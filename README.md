@@ -20,7 +20,7 @@ Hi there 👋, I'm 嘿嘿 😁.
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZxBing0066&count_private=true&show_icons=true" alt="ZxBing0066's GitHub stats" />
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZxBing0066&show_icons=true&layout=compact" /> -->
+    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenLikeWatermelon&show_icons=true&layout=compact" /> -->
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZxBing0066&count_private=true&show_icons=true&theme=radical" alt="ZxBing0066's GitHub stats" />
